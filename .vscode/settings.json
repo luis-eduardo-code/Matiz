@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "./matriz/logica"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
